@@ -1,6 +1,6 @@
 Name:		texlive-tagpdf
-Version:	64190
-Release:	2
+Version:	69165
+Release:	1
 Summary:	Tools for experimenting with tagging using pdfLaTeX and LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tagpdf
