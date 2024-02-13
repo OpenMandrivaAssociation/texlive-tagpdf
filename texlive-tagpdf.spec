@@ -1,5 +1,5 @@
 Name:		texlive-tagpdf
-Version:	69691
+Version:	69703
 Release:	1
 Summary:	Tools for experimenting with tagging using pdfLaTeX and LuaLaTeX
 Group:		Publishing
