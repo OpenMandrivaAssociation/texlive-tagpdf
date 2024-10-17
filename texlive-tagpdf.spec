@@ -3,7 +3,7 @@ Version:	72314
 Release:	1
 Summary:	Tools for experimenting with tagging using pdfLaTeX and LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tagpdf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tagpdf
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tagpdf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tagpdf.doc.r%{version}.tar.xz
