@@ -1,9 +1,9 @@
 %global tl_name tagpdf
-%global tl_revision 79038
+%global tl_revision 79799
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	1.0c
+Version:	1.0d
 Release:	%{tl_revision}.1
 Summary:	Code for PDF tagging using pdfLaTeX and LuaLaTeX
 Group:		Publishing
